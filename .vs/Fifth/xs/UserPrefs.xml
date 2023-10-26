@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{801C3F50-3049-66DD-E161-597329025955}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 5/Scripts/GameManagerX.cs">
+    <Files>
+      <File FileName="Assets/Course Library/Scripts/BallController.cs" Line="46" Column="10" />
+      <File FileName="Assets/Main.cs" Line="78" Column="9" />
+      <File FileName="Assets/Course Library/Scripts/DifficultyButton.cs" Line="42" Column="39" />
+      <File FileName="Assets/Challenge 5/Scripts/DestroyObjectX.cs" Line="9" Column="30" />
+      <File FileName="Assets/Challenge 5/Scripts/DifficultyButtonX.cs" Line="29" Column="43" />
+      <File FileName="Assets/Challenge 5/Scripts/GameManagerX.cs" Line="14" Column="4" />
+      <File FileName="Assets/Challenge 5/Scripts/TargetX.cs" Line="12" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bf4de992-2f61-439d-a0ee-7a9a8113de20" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
